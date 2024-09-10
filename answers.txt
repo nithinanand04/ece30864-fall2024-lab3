@@ -1,0 +1,3 @@
+a:
+pros -- can create working software very fast, can change plans and goals as project work continues and features release
+cons -- can create documentation issues (not enough documentation or disorganized), not necessarily best for projects where you can't incrementally push features (i.e. medical equipment)
