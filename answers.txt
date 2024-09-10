@@ -1,3 +1,19 @@
 a:
 pros -- can create working software very fast, can change plans and goals as project work continues and features release
 cons -- can create documentation issues (not enough documentation or disorganized), not necessarily best for projects where you can't incrementally push features (i.e. medical equipment)
+
+
+b:
+product owner in more involved in the product work itself and making sure that is all going well.
+scrum master oversees the process of the work that is being done, and making sure the "work system" is functioning properly
+
+c:
+sprint planning meeting - determine what to complete in sprint, and determin story points/assign stories
+daily standup meeting - discuss work completed, discuss blockers
+sprint retrospective meeting - discuss completed work, move incomplete work to backlog
+
+d:
+epic - the large work which is broken down into stories
+story - the software requirement to be worked on (smallest unit of work)
+bug - something which prevents the product from working
+task - work which is to be done
